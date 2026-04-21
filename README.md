@@ -44,7 +44,7 @@ CORE SQL; veritabanı mühendisliği, modern veri mimarileri ve DevOps süreçle
 
 ## 🏆 Kariyer ve Başarı Sistemi
 
-Uygulama, kullanıcıların çözdüğü vakalarla XP kazandığı, **Junior Intern**'den **Data God ⚡** rütbesine kadar ilerlediği ve 100'den fazla özel rozet (Sherlock, Buz Adam, Sorgu Mimarı vb.) toplayabildiği derinlikli bir başarı sistemi içerir.
+Uygulama, kullanıcıların çözdüğü vakalarla XP kazandığı, **Junior Intern**'den **Data Good ⚡** rütbesine kadar ilerlediği ve 100'den fazla özel rozet (Sherlock, Buz Adam, Sorgu Mimarı vb.) toplayabildiği derinlikli bir başarı sistemi içerir.
 
 ---
 *Geliştirici: Elif Nur Ayhan* *Lokasyon: Kayseri, Türkiye* *Sürüm: 3.4.0 (Platinum Edition)*
